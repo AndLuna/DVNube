@@ -1,3 +1,5 @@
+Rotina criativa e objetiva
+
 Início
 ir até o sofá
  sentar no sofá
