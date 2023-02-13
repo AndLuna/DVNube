@@ -5,12 +5,7 @@ ir até o sofá
  sentar no sofá
  ligar a televisao
  assistir a Aula
-  levantarDoSofa() {
-  var estaNoSofa = true;
-  estaNoSofa ? levantarDoSofa() => console.log("Levantou do Sofá") : console.log("Continuou no sofá");
-  
-}
-
+ 
 levantar do sofá
  levantarDoSofa() {
   var estaNoSofa = true;
