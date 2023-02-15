@@ -1,33 +1,47 @@
-Rotina criativa e objetiva
-
 Início
-ir até o sofá
- sentar no sofá
- ligar a televisao
- assistir a Aula
- 
-levantar do sofá
- levantarDoSofa() {
-  var estaNoSofa = true;
-  estaNoSofa ? levantarDoSofa() => console.log("Levantou do Sofá") : console.log("Continuou no sofá");
-  
-}
 
- ir até a cozinha
-   abrir a geladeira
-    pegar a quentinha com talheres
-   fechar a geladeira
-  sentar à mesa de jantar
-  começar a almoçar
-    jantar() {
-  var horaDeJantar = true;
-  horaDeJantar ? jantar() => console.log("jantou") : console.log("Ainda não é hora de jantar");
-}
- terminar de almoçar
- pegar o prato sujo
- levantar até a pia
-   colocar em cima da pia
- ir até a sala
- sentar no sofá
- assistir a aula
+Levantar do sofá
+Caminhar até a cozinha 
+ir até a geladeira
+se a porta da geladeira estiver fechada então
+    abrir porta da geladeira
+fimse
+Pegar a garrafa de suco 
+Pegar o copo ao lado da geladeira
+Enxer o copo com suco
+Guardar a garrafa de suco
+Fechar a porta da geladeira
+Tomar o suco
+Colocar o copo dentro da pia
+Caminhar até o banheiro
+se porta fechada então
+    abrir porta
+fimse
+Entrar no banheiro
+Fechar a porta do banheiro
+Ir até o armario
+Abrir a gaveta 
+Pegar a escova de dente
+Abrir a pasta de dente
+Colocar a pasta na escova
+Levar a escova até a boca 
+Escovar os dentes
+Enxaguar a boca 
+Limpar escova de dentes 
+Tampar a pasta de dente 
+se porta fechada então
+  abrir porta
+fimse
+Abrir a porta
+Sair do banheiro
+Fechar a porta
+Caminhar até o sofa
+Colocar o livro ao lado
+Se televisao estiver ligada
+    Entao desligar a televisao
+fimse
+Sentar no sofá
+
 Fim
+
+
