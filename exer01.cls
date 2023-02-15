@@ -9,8 +9,10 @@ fimse
 Pegar a garrafa de suco 
 Pegar o copo ao lado da geladeira
 Enxer o copo com suco
+Guardar a garrafa de suco
+Fechar a porta da geladeira
 Tomar o suco
-Colocar dentro da pia
+Colocar o copo dentro da pia
 Caminhar até o banheiro
 se porta fechada então
     abrir porta
@@ -19,16 +21,16 @@ Entrar no banheiro
 Fechar a porta do banheiro
 Ir até o armario
 Abrir a gaveta 
-Pegar a unica escova de dente
+Pegar a escova de dente
 Abrir a pasta de dente
- Colocar a pasta na escova
- Levar a escova até a boca 
- Escovar os dentes
- Enxaguar a boca 
+Colocar a pasta na escova
+Levar a escova até a boca 
+Escovar os dentes
+Enxaguar a boca 
 Limpar escova de dentes 
 Tampar a pasta de dente 
-  se porta fechada então
-    abrir porta
+se porta fechada então
+  abrir porta
 fimse
 Abrir a porta
 Sair do banheiro
